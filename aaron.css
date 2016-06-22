@@ -6,8 +6,27 @@ img {
 button {
 	float: center;
 }
+div.row {
+	padding-bottom: 80px;
+}
 
-button.rb {
+h3 {
+	text-align: center;
+}
 
+h4 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+button{
+	text-align: center;
+}
+
+ul{
+	
 }
 
