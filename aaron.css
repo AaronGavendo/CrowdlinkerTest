@@ -6,6 +6,11 @@ img {
 button {
 	float: center;
 }
+
+div.container {
+	padding-right: 200px;
+	padding-left: 200px;
+}
 div.row {
 	padding-bottom: 80px;
 }
@@ -27,6 +32,19 @@ button{
 }
 
 ul{
-	
+
 }
 
+nav.navbar {
+	background-color:rgb(134, 147, 158);
+}
+
+div.container-fluid li.navtext a {
+	  color: white;
+	  font-size: 60%;
+}
+
+div.navbar-header a.navbar-brand {
+	color: white;
+	font-size: 60%;
+}
