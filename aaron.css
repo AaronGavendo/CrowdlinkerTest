@@ -22,13 +22,13 @@ img {
 
 /* div related CSS */
 
-
 div.container {
 	padding-right: 200px;
 	padding-left: 200px;
 }
 div.row {
-	padding-bottom: 50px;
+	padding-bottom: 30px;
+	padding-top: 20px;
 	padding-left: 50px;
 	padding-right: 50px;
 }
@@ -41,6 +41,7 @@ div.container-fluid li.navtext a {
 	  color: white;
 	  font-size: 60%;
 }
+
 
 /* For the license option */
 
@@ -90,6 +91,11 @@ button.btn {
 /* This is for the size of the text box */
 .form-control {
 	width: 250px;
+}
+
+/* CSS For the Top Bar */
+.table-borderless tbody tr td, .table-borderless tbody tr th, .table-borderless thead tr th {
+    border: none;
 }
 
 
