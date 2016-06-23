@@ -1,5 +1,10 @@
 h3 {
 	text-align: center;
+
+}
+
+h3.green {
+	color: green;
 }
 
 h4 {
@@ -17,12 +22,13 @@ img {
 
 /* div related CSS */
 
+
 div.container {
 	padding-right: 200px;
 	padding-left: 200px;
 }
 div.row {
-	padding-bottom: 80px;
+	padding-bottom: 50px;
 }
 
 div.container-fluid li.navtext a {
@@ -30,10 +36,6 @@ div.container-fluid li.navtext a {
 	  font-size: 60%;
 }
 
-div.navbar-header a.navbar-brand {
-	color: white;
-	font-size: 75%;
-}
 
 /* For the license option */
 
@@ -44,12 +46,14 @@ div.col-sm-4 p {
 /* This is for the Navbar at the bottom */
 nav.navbar {
 	background-color:rgb(134, 147, 158);
+	text-align: center;
 }
 
 /* This is CSS for buttons */
 
-div.row table.table button.button{
-
+button.btn {
+	padding-right: 50px;
+	padding-left: 50px;
 }
 
 /* This is CSS to add the glyphicon for send */
@@ -68,6 +72,11 @@ div.row table.table button.button{
 .left-addon input  { 
 	padding-left:  35px; 
 }
+/* This is for the size of the text box */
+.form-control {
+	width: 250px;
+}
+
 
 
 
