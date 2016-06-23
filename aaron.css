@@ -29,6 +29,12 @@ div.container {
 }
 div.row {
 	padding-bottom: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+div.padform {
+	padding-left:225px;
 }
 
 div.container-fluid li.navtext a {
@@ -36,12 +42,14 @@ div.container-fluid li.navtext a {
 	  font-size: 60%;
 }
 
-
 /* For the license option */
 
 div.col-sm-4 p {
 	font-size: 60%;
+	padding-top: 10px;
 }
+
+
 
 /* This is for the Navbar at the bottom */
 nav.navbar {
@@ -62,6 +70,7 @@ button.btn {
 .inner-addon .glyphicon {
   position: absolute;
   padding: 10px;
+
 }
 
 .inner-addon { 
