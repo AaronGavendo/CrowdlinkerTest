@@ -44,9 +44,8 @@ div.container-fluid li.navtext a {
 
 /* For the license option */
 
-div.col-sm-4 p {
-	font-size: 60%;
-	padding-top: 10px;
+div.col-sm-3 p {
+	font-size: 50%;
 }
 
 
@@ -60,8 +59,8 @@ nav.navbar {
 /* This is CSS for buttons */
 
 button.btn {
-	padding-right: 50px;
-	padding-left: 50px;
+	padding-right: 30px;
+	padding-left: 30px;
 }
 
 /* This is CSS to add the glyphicon for send */
