@@ -98,6 +98,14 @@ button.btn {
     border: none;
 }
 
+/*CSS for Carousel */
+
+.carousel-content {
+    color: black;
+    background-color: #f2f2f2;
+
+}
+
 
 
 
